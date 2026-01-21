@@ -1,2 +1,2 @@
-# Insurance-Fradulent-Claim
+# Vehicle Insurance Claim Fraud Analysis and Detection
 I am planning to perform a data analysis on car insurance fraud to better understand patterns and factors associated with fraudulent claims. The goal is to identify suspicious claims, uncover trends, and provide actionable insights that can help insurance companies reduce losses. By analyzing historical claim data, including driver details, claim amounts, accident circumstances, and policy information, I aim to detect anomalies, correlations, and risk factors. The analysis may include statistical summaries, visualizations, and predictive modeling to highlight potential fraud indicators and support data-driven decision-making in fraud prevention.
